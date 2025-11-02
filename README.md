@@ -1,7 +1,5 @@
 # *Dataset-Narkotika_180_183*
 Tugas Ujian Tengah Semester 2025/2026 Temu Kembali Informasi
-Nama Anggota 1 : Zulkifli A. Patuti (202201370311180)
-Nama Anggota 2 : Arya Mandala Putra (202210370311183)
 
 Repositori yang didedikasikan untuk analisis mendalam terhadap **50 putusan kasus Narkotika** dari Pengadilan Negeri Banda Aceh (PN BNA). Proyek ini bertujuan untuk mengeksplorasi tren, pola hukuman, jenis barang bukti, dan penerapan pasal-pasal dalam penanganan kasus narkotika di wilayah Aceh, memberikan wawasan yang berharga bagi peneliti, akademisi, praktisi hukum, dan masyarakat umum.
 
